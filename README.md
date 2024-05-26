@@ -2,7 +2,8 @@
 
 ## About Me
 
-Hello! I'm Wajiha Adnan, a dedicated developer proficient in Python, C, and SQL. Currently, I am deeply involved in pursuing data science, exploring the fascinating world of data and its applications.
+Hey there! I'm Wajiha Adnan, an enthusiastic developer with expertise in Python and SQL. My journey into the realm of programming sparked a fascination with data and its endless possibilities, steering me towards a rewarding career in data science.
+
 
 ## My Skills
 
@@ -17,7 +18,12 @@ Here are some highlights of my projects:
 
 - **Python KBC Game**: Developed a Python-based version of the popular game show "Kaun Banega Crorepati".
 - **C Quiz Game**: Created an interactive quiz game using the C programming language, testing players' knowledge on various topics.
+- **Bike Sales Analysis Project** : Analyzed bike sales data to identify trends and make recommendations for improving sales.
+- **Sales Analysis Project** : Conducted sales analysis to optimize pricing strategies and increase revenue.
+- **Zomato Dataset Analysis** : Project: Explored Zomato dataset to understand restaurant trends and customer preferences.
 
+## GitHub Repositories
+I have 22 repositories in Python, covering a wide range of topics and projects. Feel free to explore them and contribute if you're interested!
 
 ## Current Focus
 
