@@ -23,7 +23,7 @@ Here are some highlights of my projects:
 - **Zomato Dataset Analysis** : Project: Explored Zomato dataset to understand restaurant trends and customer preferences.
 - **SuperStore EDA Analysis** : Its a project provided by my university teacher
 ## GitHub Repositories
-I have 22 repositories in Python, covering a wide range of topics and projects. Feel free to explore them and contribute if you're interested!
+I have 23 repositories in Python, covering a wide range of topics and projects. Feel free to explore them and contribute if you're interested!
 
 ## Current Focus
 
