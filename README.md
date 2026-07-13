@@ -4,7 +4,7 @@
 
 I'm a final-year Computer Science student specializing in **Data Science** at **NED University of Engineering & Technology** with a strong passion for solving business problems using **Data Science, Machine Learning, Business Intelligence, and Artificial Intelligence**.
 
-Currently, I'm working as a **Data Scientist & Data Analyst Intern at MMP Pakistan**, where I develop AI-powered HR solutions, build business intelligence dashboards, perform exploratory data analysis, and automate data-driven workflows.
+Currently, I worked as a **Data Scientist & Data Analyst Intern at MMP Pakistan**, where I develop AI-powered HR solutions, build business intelligence dashboards, perform exploratory data analysis, and automate data-driven workflows.
 
 I enjoy transforming raw data into meaningful insights and building intelligent applications that create real business value.
 ---
